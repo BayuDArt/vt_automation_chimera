@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
-
+/* Warna tema gelap */
 :root {
     --bg-color: #121212; --surface-color: #1e1e1e; --primary-color: #bb86fc;
     --secondary-color: #03dac6; --text-color: #e0e0e0; --text-muted: #888;
